@@ -100,7 +100,7 @@ header{
     
     p{
         position: absolute;
-        width: 35%;
+        width: 30%;
         height: auto;
         left: 110px;
         top: 275px;
@@ -128,7 +128,7 @@ header{
         position: absolute;
         width: 50%;
         height: auto;
-        left: 605px;
+        left: 615px;
         top: 130px;
     }
     
@@ -223,9 +223,9 @@ header{
 h1{
     position: absolute;
     color: #282973;
-    width: 91px;
-    height: 36px;
-    top: 140px;
+    width: 20%;
+    height: auto;
+    top: 110px;
     left: 24px;
     font-weight: 700;
     font-size: 24px;
@@ -234,10 +234,10 @@ h1{
 
 p{
     position: absolute;
-    width: 309px;
-    height: 96px;
+    width: 70%;
+    height: auto;
     left: 21px;
-    top: 191px;
+    top: 200px;
     font-weight: 500;
     font-size: 16px;
     color: #282973;
@@ -248,10 +248,10 @@ p{
     font-family: 'Poppins', sans-serif;
     color: #ffffff;
     position: absolute;
-    width: 186px;
-    height: 51px;
+    width: 50%;
+    height: auto;
     left: 24px;
-    top: 335px;
+    top: 380px;
     background: #2457C5;
     border: 3px solid #FFFFFF;
     border-radius: 30px;
@@ -262,17 +262,16 @@ p{
 
 .rafikis{
     position: absolute;
-    width: 400px;
-    height: 390px;
-    top: 450px;
+    width: 90%;
+    height: auto;
+    top: 498px;
     left: 25px;
-    overflow: hidden;
 }
 
 .ellipses{
     position: absolute;
-    width: 250px;
-    height: 300px;
+    width: 60%;
+    height: auto;
     left: -85px;
     top: 615px;
 }
